@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+nav {
+  background-color: #93b7be;
+}
+
+.svg-icon {
+  height: 24pt;
+  width: 24pt;
+  padding: 3px;
+  margin-left: 5px;
+}
+
+.login-form {
+  padding: 10%;
+  margin: 10%;
+  /* height: 625pt;
+  width: 343pt; */
+  background-color: #00000086;
+}
